@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TD1_formulaire</string>
+    <string name="txt_nom">Nom: </string>
+    <string name="input_nom">Ton nom</string>
+    <string name="txt_prenom">Prénom: </string>
+    <string name="input_prenom">Ton prénom</string>
+    <string name="txt_age">Age: </string>
+    <string name="res_age">0</string>
+    <string name="res_string"></string>
+    <string name="btn_formulaire">Valider</string>
+
+
+</resources>
